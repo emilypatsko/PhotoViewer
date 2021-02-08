@@ -1,0 +1,9 @@
+.image-selector {
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-selector img {
+    width: 200px;
+}
