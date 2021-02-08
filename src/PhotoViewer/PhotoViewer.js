@@ -1,11 +1,11 @@
 import React from "react"; // import React for access to JSX
 import './PhotoViewer.css';
 
-function PhotoViewer() {
+function PhotoViewer(props) {
     return (
         <div className = "main-photo-view">
             Selected photo:
-            <img src = "https://picsum.photos/300/200"></img>
+            <img src = {props.src}></img>
         </div>
     );
 }
