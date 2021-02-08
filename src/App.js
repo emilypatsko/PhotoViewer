@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <h1>React Photo Viewer</h1>
-      <PhotoViewer src={"https://picsum.photos/id/1015/600/400"}/>
+      <PhotoViewer src={"https://picsum.photos/id/1037/600/400"}/>
       <ImageSelector/>
     </div>
   );
