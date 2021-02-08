@@ -4,6 +4,10 @@
     align-items: center;
 }
 
+.main-photo-view img {
+    width: 600px;
+}
+
 h1 {
     color: blue;
 }
