@@ -1,6 +1,4 @@
 import { PhotoViewer } from './PhotoViewer.js';
-// import { renderer } from '@testing-library/react';
-// const renderer = require('react-test-renderer');
 import React from 'react';
 import renderer from 'react-test-renderer';
 

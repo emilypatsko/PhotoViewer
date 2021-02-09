@@ -1,11 +1,5 @@
 import {getImageUrls} from './App';
 
-// test('renders learn react link', () => {
-//   render(<App />);
-//   const linkElement = screen.getByText(/learn react/i);
-//   expect(linkElement).toBeInTheDocument();
-// });
-
 // Unit test to check our image URL generation
 test('generates image URLs correctly', () => {
   const urls = getImageUrls();
