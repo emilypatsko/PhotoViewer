@@ -29,4 +29,5 @@ function getImageUrls() {
   return urls;
 }
 
-export default App;
+// export default App;
+export {App, getImageUrls};
