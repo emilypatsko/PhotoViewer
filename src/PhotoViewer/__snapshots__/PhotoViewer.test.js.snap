@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PhotoViewer should match snapshot with src prop 1`] = `
+<div
+  className="main-photo-view"
+>
+  Selected photo:
+  <img
+    src="https://picsum.photos/id/879/600/400"
+  />
+</div>
+`;
